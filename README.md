@@ -1,5 +1,5 @@
 # 我以為用不到但真的很好用 - 才怪我就是懶
-## V1.0.1 增補待更新目錄
+## V0.0.1 增補待更新目錄
 ### Java code guildline:
   - Checkstyle
   - Sonarlint
